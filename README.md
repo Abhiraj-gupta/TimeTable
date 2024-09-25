@@ -1,1 +1,1 @@
-# TimeTable
+This project is a simple HTML-based time table that showcases a weekly schedule in a tabular format. The page includes details of different periods for each day, including classes, labs, library sessions, sports activities, and lunch breaks.
